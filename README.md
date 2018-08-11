@@ -15,7 +15,7 @@ Complete work has been done on NLTK Brown Corpus. The models implemented in here
 
 #### You can look for code along with results in the ipython notebook
 #### You can also build the models and find out the log-likelihood and perplexity score of different sentences by 
-'python language_modelling.py <input text file path>'
-e.g. 'python language_modelling.py input.txt' input.txt would have one sentence in each line
+`python language_modelling.py <input text file path>` <br>
+e.g. `python language_modelling.py input.txt` input.txt would have one sentence in each line
 
 
