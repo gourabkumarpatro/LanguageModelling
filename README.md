@@ -7,4 +7,4 @@ Complete work has been done on NLTK Brown Corpus
 * log-likelihood and perplexity score for a few sentences
 
 ### Language Modelling with smoothing
-* Laplacian or Additive smoothing with k in [10^-4, 10^-3, 10^-2, 10^-1, 1]
+* Laplacian or Additive smoothing with k in [$10^-4$, 10^-3, 10^-2, 10^-1, 1]
